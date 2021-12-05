@@ -34,7 +34,7 @@
         .span-two {
           grid-column: span 2;
           color: #adf802;
-          background-color: rgba(139, 0, 139, 0.8);
+          background-color: rgba(190, 115, 190, 0.8);
         }
   
         .output{
